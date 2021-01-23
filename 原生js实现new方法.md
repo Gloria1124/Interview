@@ -18,4 +18,8 @@ function new(){
 获取传进来的构造函数，shift方法内部的this会绑定到arguments上，并且获得第一个参数即构造函数。  
 
 *构造函数的返回值*  
-若返回值为对象类型则则返回这个对象，否则返回构造的新对象。
+若返回值为对象类型则则返回这个对象，否则返回构造的新对象。  
+
+> 参考文章  
+[JavaScript深入之new的模拟实现](https://github.com/mqyqingfeng/Blog/issues/13)
+
