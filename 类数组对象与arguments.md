@@ -13,3 +13,6 @@
 arguments对象就是一个类数组对象，只定义在函数体中，包括了函数的参数和其他属性。  
 在函数中，arguments就代表Arguments对象。对于传入的参数，实参和arguments的值会共享，当没有传入时，实参与arguments值不会共享。  
 
+> 参考文章
+[JavaScript深入之类数组对象与arguments](https://github.com/mqyqingfeng/Blog/issues/14)
+
