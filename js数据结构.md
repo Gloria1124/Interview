@@ -1,0 +1,6 @@
+[[JS数据结构] - 4 - 栈篇](https://segmentfault.com/a/1190000021250475)  
+[[JS数据结构] - 3 - 堆篇](https://segmentfault.com/a/1190000021222938)   
+[[JS数据结构] - 2 - 二叉树篇](https://segmentfault.com/a/1190000021207983)  
+[[JS数据结构] - 1 - 数组链表篇](https://segmentfault.com/a/1190000021180217)  
+[[JS数据结构] - 5 - 队列篇](https://segmentfault.com/a/1190000021261851)  
+[js中的栈、堆、队列、内存空间](https://www.cnblogs.com/slly/p/10366290.html)
