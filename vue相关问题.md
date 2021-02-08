@@ -23,6 +23,7 @@ vue中每个组件实例都会对应一个watcher实例，它会在组件渲染�
   2. 缺点：无法监控到数组下标的变化，导致直接通过数组下标给数组设置值不能实时响应。只能劫持对象的属性，需要对每个对象的每个属性进行遍历。  
 
 ## 3.组件通信方式  
+* [vue中8种组件通信方式, 值得收藏!](https://juejin.cn/post/6844903887162310669#heading-10)
 
 ## 4.vue的生命周期  
 **beforeCreated** 在数据观测和初始化事件还未开始  
@@ -66,7 +67,15 @@ vue中每个组件实例都会对应一个watcher实例，它会在组件渲染�
 3. 使用element ASTs生成render函数代码字符串（代码生成器）  
 
 ## 10.vue的render时机
-* [vue.js 实践总结（二）Render 函数](https://juejin.cn/post/6844903640423989256)
+* [vue.js 实践总结（二）Render 函数](https://juejin.cn/post/6844903640423989256)  
+
+## 11.bue-router中hash和history的区别  
+* [vue-router的两种模式的区别](https://juejin.cn/post/6844903552519766029)   
+
+## 12.vue中的diff算法  
+* [【Vue原理】Diff - 白话版](https://zhuanlan.zhihu.com/p/81752104)  
+
+
   
 
 > 参考文章  
